@@ -8,7 +8,7 @@
     storageBucket: "web-comments-8260e.appspot.com",
     messagingSenderId: "462472239176",
     appId: "1:462472239176:web:6cf8bcfb513c25f06da07d",
-    measurementId: "G-19ZPF0TWCM"
+    measurementId: "G-KBEPE7VQR6"
   }; 
 
     // Initialize Firebase
