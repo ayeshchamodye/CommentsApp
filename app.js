@@ -1,13 +1,13 @@
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyDYUyz4xKFnmzFZL53k9_s2652AWh8AxFw",
-    authDomain: "chat-application-27ab4.firebaseapp.com",
-    databaseURL: "https://chat-application-27ab4.firebaseio.com",
-    projectId: "chat-application-27ab4",
-    storageBucket: "chat-application-27ab4.appspot.com",
-    messagingSenderId: "433296968616",
-    appId: "1:433296968616:web:020defb862c1bd5af02b9d",
+    apiKey: "AIzaSyDkEX-BCUIfl8CIOXIkjZ_ElYf9ECbrXNs",
+    authDomain: "web-comments-8260e.firebaseapp.com",
+    databaseURL: "https://web-comments-8260e-default-rtdb.firebaseio.com",
+    projectId: "web-comments-8260e",
+    storageBucket: "web-comments-8260e.appspot.com",
+    messagingSenderId: "462472239176",
+    appId: "1:462472239176:web:6cf8bcfb513c25f06da07d",
     measurementId: "G-19ZPF0TWCM"
   }; 
 
